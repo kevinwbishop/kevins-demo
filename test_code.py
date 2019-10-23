@@ -7,4 +7,4 @@ def area(radius):
 	----------
 	radius : float
 
-	return np.pi * radius ** 2)
+	return np.pi *( radius ** 2)
